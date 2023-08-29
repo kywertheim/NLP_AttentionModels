@@ -7,3 +7,5 @@ Context: I completed these guided programming exercises during the Coursera cour
 2. C4_W2_Assignment.ipynb: This notebook records the steps taken to build a text summariser. The model is a transformer decoder using the masked self-attention (autoregressive or causal attention) mechanism.
 
 3. C4_W3_Assignment.ipynb: This notebook records the steps taken to build a question answering system. The model is a transformer encoder (BERT).
+
+4. C4_W4_Assignment.ipynb: This notebook records the steps taken to build a chatbot. The model is a reformer: a transformer decoder enhanced by reversible layers and locality sensitive hashing.
